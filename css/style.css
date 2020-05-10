@@ -28,6 +28,16 @@ h2 {
   opacity: 0.6;
 }
 
+.morning {
+  background-image: url("../img/1.jpg");
+}
+.afternoon{
+  background-image: url("../img/2.jpg");
+}
+.evening{
+  background-image: url("../img/3.jpg");
+}
+
 @media (max-width: 700px) {
   #time {
     font-size: 6rem;
