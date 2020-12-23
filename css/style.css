@@ -43,3 +43,10 @@ h2 {
     font-size: 6rem;
   }
 }
+
+@media(min-width: 1920px){
+  .morning, .afternoon, .evening{
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+}
